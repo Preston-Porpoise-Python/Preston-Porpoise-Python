@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Preston-Porpoise-Python
+- 👋 Hi, I’m Changqun 'Preston' Zhang
 - 👀 I’m interested in 3D modeling and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any animal germane 3D modeling and AI
